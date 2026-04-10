@@ -1,0 +1,18 @@
+{
+  "name": "njk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongobd": "^0.0.1-security.0",
+    "mongoose": "^9.4.1",
+    "nodemon": "^3.1.14"
+  }
+}
